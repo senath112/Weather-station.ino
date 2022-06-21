@@ -1,2 +1,3 @@
 # Weather-station.ino
- #wether monitoring by Magicbit                     # credit - tech සයුර 
+# weather monitoring by <a href=magicbit.cc>MagicBit</a>                     
+# credit - <a href=https://www.techsayura.com>tech සයුර </a>
