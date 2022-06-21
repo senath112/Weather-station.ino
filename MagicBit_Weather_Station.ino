@@ -17,9 +17,9 @@ Adafruit_SSD1306 display(128, 64);
 
 const char* ssid = "WiFi SSID"; //Your WiFi SSID
 const char* password = "WiFi key"; //Your WiFi key
-String openWeatherMapApiKey = "f75c9f0a2r2u2ae7d17fw116ef863b64"; //openweathermap.org API key
-String city = "Kandy";  //City name
-String countryCode = "LK"; //Country Code
+String openWeatherMapApiKey = "your API"; //openweathermap.org API key
+String city = "city";  //City name
+String countryCode = "LK"; //Country Code [LK=Sri Lanka]
 String jsonBuffer;
 bool res=1;
 
